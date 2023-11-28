@@ -1,6 +1,5 @@
 ![CI](https://github.com/brivazz/vrnnrmnvldmrvch_tz/actions/workflows/code-checker.yml/badge.svg)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/brivazz/vrnnrmnvldmrvch_tz)
-![GitHub language count](https://img.shields.io/github/languages/count/brivazz/vrnnrmnvldmrvch_tz)![GitHub top language](https://img.shields.io/github/languages/top/brivazz/vrnnrmnvldmrvch_tz)![Github Repository Size](https://img.shields.io/github/repo-size/brivazz/vrnnrmnvldmrvch_tz)
 
 # Тестовое задание для Python-разработчика
 
