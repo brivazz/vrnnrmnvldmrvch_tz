@@ -1,6 +1,6 @@
 ---
 
-name: Upload files
+name: code-checker
 
 on:
   push:
